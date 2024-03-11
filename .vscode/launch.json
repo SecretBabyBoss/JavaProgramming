@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "Bubble",
+            "projectName": "JavaProgramming_b61910af"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "JavaProgramming_b61910af"
+        },
+        {
+            "type": "java",
+            "name": "SearchElementInArray",
+            "request": "launch",
+            "mainClass": "SearchElementInArray",
+            "projectName": "JavaProgramming_b61910af"
+        },
+        {
+            "type": "java",
+            "name": "BiggestElementInArray",
+            "request": "launch",
+            "mainClass": "BiggestElementInArray",
+            "projectName": "JavaProgramming_b61910af"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "JavaProgramming_b61910af"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JavaProgramming_b61910af"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "JavaProgramming_b61910af"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNumber",
+            "request": "launch",
+            "mainClass": "PalindromeNumber",
+            "projectName": "JavaProgramming_b61910af"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "JavaProgramming_b61910af"
+        },
+        {
+            "type": "java",
+            "name": "SwappingNumbers",
+            "request": "launch",
+            "mainClass": "SwappingNumbers",
+            "projectName": "JavaProgramming_b61910af"
+        },
+        {
+            "type": "java",
+            "name": "SwappingNumbersWout",
+            "request": "launch",
+            "mainClass": "SwappingNumbersWout",
+            "projectName": "JavaProgramming_b61910af"
+        }
+    ]
+}
